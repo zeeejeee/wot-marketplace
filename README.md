@@ -16,3 +16,5 @@ It should be noted that a configuration file is also needed.
 ## Info
 
 You can use a string escaper to turn multiline READMEs to strings so that they are a JSON string
+
+NOTE: please add token # for the gist. It cant be uploaded along with the source code as github will make the token invalid.
